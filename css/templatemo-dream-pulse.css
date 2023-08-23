@@ -1,11 +1,3 @@
-/*
-
-DREAM PULSE
-
-https://templatemo.com/tm-536-dream-pulse
-
-*/
-
 body {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -128,14 +120,13 @@ a {
   max-width: 400px;
 }
 
-/* Hide scrollbar */
 .tm-sidebar {
   overflow-y: scroll;
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none; /* IE 10+ */
+  scrollbar-width: none;
+  -ms-overflow-style: none; /
 }
+
 .tm-sidebar::-webkit-scrollbar {
-  /* WebKit */
   width: 0;
   height: 0;
 }
@@ -248,7 +239,6 @@ a {
   justify-content: center;
 }
 
-/* Our Work */
 
 .tm-gallery-wrap {
   max-width: 1040px;
@@ -305,12 +295,7 @@ a {
   opacity: 1;
 }
 
-/* 
-  Gallery Item Hover Effect
-  https://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/
-*/
 
-/* Common style */
 .tm-gallery-item figure {
   position: relative;
   float: left;
@@ -355,8 +340,6 @@ a {
   justify-content: center;
 }
 
-/* Anchor will cover the whole item by default */
-/* For some effects it will show as a button */
 .tm-gallery-item figure figcaption > a {
   z-index: 1000;
   text-indent: 200%;
@@ -384,9 +367,6 @@ a {
   font-size: 68.5%;
 }
 
-/*---------------*/
-/***** Bubba *****/
-/*---------------*/
 
 figure.effect-bubba {
   background: #069;
@@ -463,7 +443,6 @@ figure.effect-bubba:hover p {
   transform: translate3d(0, 0, 0);
 }
 
-/* Clients */
 .tm-section-pad {
   padding-left: 50px;
   padding-right: 50px;
