@@ -32,4 +32,4 @@ In conclusion, the "Dream Pulse" project is a website that reflects my personal 
 <p>You can run it by going to the folder where your code is, and clicking on the index.html file, or you can open it in your code editor and run it in `Live Server`</p>
 <hr />
 <h2>🍿 Demo </h2>
-<p> - Check out our live demo at https://dream-pulse.netlify.app/ </p>
+<p> - Check out our live demo at https://dream-pulse-page.netlify.app/ </p>
